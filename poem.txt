@@ -9,5 +9,6 @@ Y-yellow
 O- orange
 R- red
 U- Unicorn
+E-Earth
 It is also the colour.
 The reason of rainbow is the scattering of white light.
